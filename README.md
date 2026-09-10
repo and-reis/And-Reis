@@ -1,19 +1,19 @@
 ---
 
-# 👋 Hello, I'm Anderson R.
+# Hello, I'm Anderson R.
 
 🌐 **Data Engineer | Data Analyst | Freelancer Developer**  
 🔍 Passionate about data, technology, and creating impactful solutions.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am IT professional with over 15 years of experience in **data analysis**, **business intelligence**, and **database management**. My expertise spans various platforms and tools, such as **Oracle**, **SQL Server**, **MySQL**, **AWS Redshift**, and **PostgreSQL**, with a strong focus on optimizing systems, creating efficient pipelines, and uncovering actionable insights from complex datasets.
 
 Currently, I work as a freelancer, leveraging my knowledge in **backend development** and exploring trending topics like **cryptocurrencies** and **investment applications**.
 
-### 🔑 Key Highlights:
+### Key Highlights:
 - Developed and maintained high-performance ETL processes.
 - Specialized in **data migration**, reducing costs and increasing efficiency by over 30%.
 - Freelancer developer, creating **investment portfolio apps** and collaborating on data engineering and analytics projects.
@@ -21,7 +21,7 @@ Currently, I work as a freelancer, leveraging my knowledge in **backend developm
 
 ---
 
-## 🚀 Skills and Technologies
+## Skills and Technologies
 
 ### **Core Skills**:
 - **Languages**: Python, PLSQL, T-SQL, R, PySpark, Scala, DAX
@@ -36,19 +36,19 @@ Currently, I work as a freelancer, leveraging my knowledge in **backend developm
 
 ---
 
-## 🎯 Goals on GitHub
+## Goals on GitHub
 
 My GitHub is a space to:
 1. Share projects that demonstrate my skills in **backend development**, **data engineering**, and **data analysis**.
 2. Collaborate with the open-source community and continuously learn new tools and techniques.
 3. Build a portfolio of practical applications, starting with:
-   - 🚀 **Investment App Demo** (in progress): A robust API for managing investment portfolios.
-   - 🔜 **Data Engineering Project**: Focused on data pipelines and processing at scale.
-   - 🔜 **Data Analytics Dashboard**: Highlighting visualization and insights generation.
+   - **Investment App Demo** (in progress): A robust API for managing investment portfolios.
+   - **Data Engineering Project**: Focused on data pipelines and processing at scale.
+   - **Data Analytics Dashboard**: Highlighting visualization and insights generation.
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **LinkedIn**: [Anderson Reis](https://linkedin.com/in/anderson-r-11721823)
 
